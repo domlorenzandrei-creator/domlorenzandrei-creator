@@ -1,12 +1,31 @@
-## Hi there 👋
+Hi, I’m Andrei 👋
 
-I am Andrei! 
+I’m a BS Computer Science student graduating around June 2027, focused on developing practical software engineering skills.
+
+Current Focus
+
+* Python development
+* Backend engineering fundamentals
+* SQL and database-backed applications
+* Automated testing and code quality
+* Exploring AI-powered applications
+
+Projects
+
+CLI Expense Tracker
+
+A Python command-line application for tracking expenses.
 
 
-A 4th year student in BS Computer Science. 
+
+AI Detective
+
+A Python murder mystery game involving suspect interviews, database-backed alibi checks, and procedural generation.
 
 
-Learning software development, learning every day and building my skills. 
+Current Goal
 
+Build software that is understandable, testable, and practical to run, not just code that works once on my machine.
 
-Here to grow and document my progress.
+I’m working toward opportunities in backend software engineering and am interested in applying AI capabilities to useful applications.
+
